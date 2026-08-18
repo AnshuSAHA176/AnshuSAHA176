@@ -1,146 +1,128 @@
-👋 Hi, I'm Anshu Saha
+Hi, I'm Anshu Saha 👋
 
-Backend Developer • Python • Django • AI Engineering
+Backend Developer | Python | Django | AI Engineering
 
-I'm a BCA student focused on becoming a strong backend/software engineer by building real-world systems rather than just following tutorials.
+I'm a BCA student focused on building real-world backend systems and AI-powered applications.
 
-I work mainly with Python, Django, REST APIs, PostgreSQL, Redis, React, and AI/Agentic systems.
+I enjoy working with APIs, databases, automation, web scraping, and AI agents — and I'm currently focused on becoming a stronger software engineer through practical projects.
 
 ---
 
-🚀 What I'm Building
+🛠️ Tech Stack
+
+Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+Backend
+
+"Django" (https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+"Django REST Framework" (https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+"Flask" (https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+Frontend
+
+"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+"Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Database & Infrastructure
+
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+"Redis" (https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+AI & Automation
+
+"LangChain" (https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+"LangGraph" (https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+"Playwright" (https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+"Selenium" (https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+🚀 Featured Projects
 
 🤖 AI Career Intelligence Platform
 
-An AI-powered career platform designed to help users make better career decisions.
+An AI-powered platform designed to help users make better career decisions.
 
-Core features:
+Features
 
 - Resume analysis
 - Skill extraction
 - Skill-gap detection
-- Job market analytics
+- Job market analysis
 - Job scraping
 - Career recommendations
 - Personalized career roadmaps
 - AI-powered learning features
-- Job trend analysis
 
-Stack: Django • PostgreSQL • Redis • React • TypeScript • AI/LLMs
+Built with: Django • PostgreSQL • Redis • React • AI
+
+"View Repository →" (https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
+
+---
 
 🏙️ CivicAI
 
-An AI-powered civic issue reporting platform that allows citizens to report problems and helps automate issue analysis, classification, and communication.
+An AI-powered civic issue reporting platform designed to help citizens report problems and improve issue management.
 
-Stack: Django REST Framework • PostgreSQL • Redis • Django Channels • React • AI Agents
+Features
+
+- Civic issue reporting
+- Issue classification
+- Real-time notifications
+- REST APIs
+- WebSockets
+- AI-powered assistance
+- AI agent integration
+
+Built with: Django • Django REST Framework • PostgreSQL • Redis • Django Channels • React • AI
+
+"View Repository →" (https://github.com/AnshuSAHA176)
 
 ---
 
-🧠 Tech Stack
+🧠 Currently Learning
 
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Backend
-
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Django REST Framework" (https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-Frontend
-
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-Databases & Infrastructure
-
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-"Redis" (https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-AI & Automation
-
-- LLM APIs
-- LangChain
-- LangGraph
+- Advanced Python
+- Django & Django REST Framework
+- System Design
+- Backend Architecture
+- Distributed Systems
 - AI Agents
+- LangGraph
 - RAG
-- Prompt Engineering
-- Web Scraping
-- Playwright
-- Selenium
-- BeautifulSoup
+- Clean Architecture
 
 ---
 
-🔨 Currently Learning
+🎯 What I'm Working Toward
 
-Python Engineering
-        ↓
-Advanced Django
-        ↓
-System Design
-        ↓
-Distributed Systems
-        ↓
-AI Engineering
-        ↓
-Agentic AI
+My goal is to become a strong backend/software engineer capable of designing, building, and deploying reliable production systems.
 
 I'm particularly interested in:
 
-- Backend architecture
-- API design
-- Scalable systems
-- AI agents
-- Web automation
-- Data pipelines
-- Distributed systems
-- Production engineering
+"Backend Engineering" · "AI Engineering" · "Distributed Systems" · "Automation" · "Developer Tools"
 
 ---
 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuSAHA176&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSAHA176&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>---
 
-🐍 Contribution Graph
+🤝 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/output/github-contribution-grid-snake.svg" />
-</p>---
-
-🎯 2026 Goals
-
-- Build production-grade backend systems
-- Become strong in Django and Python
-- Master system design fundamentals
-- Build and deploy AI-powered applications
-- Learn advanced Agentic AI
-- Participate in hackathons
-- Contribute to open source
-- Build projects that solve real problems
+""GitHub" (https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github)" (https://github.com/AnshuSAHA176)
 
 ---
 
-📫 Connect With Me
-
-- GitHub: "@AnshuSAHA176" (https://github.com/AnshuSAHA176)
-
----
-
-⚡ Philosophy
-
-«Don't just learn frameworks.
-Understand the systems behind them.»
-
-Building → Breaking → Debugging → Learning → Building again.
+«Build things. Break things. Understand why they broke. Build them better.»
