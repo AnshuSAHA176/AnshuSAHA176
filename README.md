@@ -1,48 +1,54 @@
 # 👋 Hi, I'm Anshu Saha
 
-### Backend Developer | Python | Django | AI Engineering
+### Backend Engineer in Progress · Python · Django · AI Agents
 
-I'm a BCA student focused on building real-world backend systems and AI-powered applications.
+I build **backend systems and AI-powered applications** with a focus on APIs, databases, automation, and intelligent agents.
 
-I enjoy building APIs, working with databases, automation, web scraping, and AI agents.
+Currently focused on becoming a strong backend engineer and learning how to design reliable, scalable systems that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Do
 
-### Languages
+- 🐍 Build backend systems with **Python & Django**
+- 🔌 Design and develop **REST APIs**
+- 🗄️ Work with **PostgreSQL, MongoDB & Redis**
+- 🤖 Build **AI agents and agentic workflows**
+- 🧠 Work with **LLMs, LangChain & LangGraph**
+- 🌐 Build automation and **web scraping systems**
+- ⚙️ Design background tasks, real-time systems and integrations
+- 🐳 Containerize and deploy backend applications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+---
+
+## 🧰 Core Stack
 
 ### Backend
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Frontend
+### Databases & Infrastructure
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Database & Infrastructure
+### AI & Agent Engineering
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C47FF?style=for-the-badge)
 
-### AI & Automation
+### Automation
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
 
 ---
 
@@ -50,52 +56,62 @@ I enjoy building APIs, working with databases, automation, web scraping, and AI 
 
 ### 🤖 AI Career Intelligence Platform
 
-AI-powered platform for career decisions, resume analysis, skill-gap detection, job market analysis, and personalized career recommendations.
+An AI-powered backend platform designed to help users make better career decisions through job-market intelligence and personalized recommendations.
 
-**Tech:** Django • PostgreSQL • Redis • React • AI
+**Key capabilities**
 
-[View Project →](https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
+- Resume analysis
+- Skill extraction
+- Skill-gap detection
+- Job market analysis
+- Automated job scraping
+- Career recommendations
+- Personalized career roadmaps
+- AI-powered learning workflows
+
+**Architecture**
+
+`Django` · `REST APIs` · `PostgreSQL` · `Redis` · `AI/LLMs` · `Web Scraping`
+
+[View Repository →](https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
 
 ---
 
 ### 🏙️ CivicAI
 
-AI-powered civic issue reporting platform for reporting, analyzing, and managing civic problems.
+An AI-powered civic issue reporting system designed to help citizens report problems and automate parts of the issue-management workflow.
 
-**Tech:** Django • Django REST Framework • PostgreSQL • Redis • Django Channels • React • AI Agents
+**Key capabilities**
 
-[View GitHub →](https://github.com/AnshuSAHA176)
+- Civic issue reporting
+- Issue classification
+- REST APIs
+- Real-time notifications
+- WebSocket communication
+- AI-powered assistance
+- AI agent integration
 
----
+**Architecture**
 
-## 🧠 Currently Learning
+`Django` · `Django REST Framework` · `PostgreSQL` · `Redis` · `Django Channels` · `AI Agents`
 
-- Advanced Python
-- Django & Django REST Framework
-- System Design
-- Backend Architecture
-- Distributed Systems
-- AI Agents
-- LangGraph
-- RAG
-- Clean Architecture
+[View Repository →](https://github.com/AnshuSAHA176)
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🧠 AI Agent Focus
 
-I'm working toward becoming a strong backend/software engineer capable of designing, building, and deploying reliable production systems.
+I'm particularly interested in building agents that can:
 
-My main interests:
-
-`Backend Engineering` · `AI Engineering` · `Distributed Systems` · `Automation` · `Developer Tools`
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshuSAHA176)
-
----
-
-> Build things. Break things. Understand why they broke. Build them better.
+```text
+Understand
+    ↓
+Reason
+    ↓
+Use Tools
+    ↓
+Access Data
+    ↓
+Take Actions
+    ↓
+Verify Results
