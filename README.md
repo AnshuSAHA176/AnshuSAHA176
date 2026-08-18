@@ -1,10 +1,10 @@
-Hi, I'm Anshu Saha 👋
+👋 Hi, I'm Anshu Saha
 
 Backend Developer | Python | Django | AI Engineering
 
 I'm a BCA student focused on building real-world backend systems and AI-powered applications.
 
-I enjoy working with APIs, databases, automation, web scraping, and AI agents — and I'm currently focused on becoming a stronger software engineer through practical projects.
+I enjoy building APIs, working with databases, automation, web scraping, and AI agents.
 
 ---
 
@@ -20,14 +20,14 @@ Languages
 Backend
 
 "Django" (https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-"Django REST Framework" (https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+"Django REST Framework" (https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
 "Flask" (https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 Frontend
 
 "React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 "Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 Database & Infrastructure
 
@@ -38,10 +38,11 @@ Database & Infrastructure
 
 AI & Automation
 
-"LangChain" (https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+"LangChain" (https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 "LangGraph" (https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 "Playwright" (https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 "Selenium" (https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+"BeautifulSoup" (https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
 
 ---
 
@@ -51,7 +52,7 @@ AI & Automation
 
 An AI-powered platform designed to help users make better career decisions.
 
-Features
+Features:
 
 - Resume analysis
 - Skill extraction
@@ -62,9 +63,9 @@ Features
 - Personalized career roadmaps
 - AI-powered learning features
 
-Built with: Django • PostgreSQL • Redis • React • AI
+Tech: Django • PostgreSQL • Redis • React • AI
 
-"View Repository →" (https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
+"View Project →" (https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
 
 ---
 
@@ -72,19 +73,19 @@ Built with: Django • PostgreSQL • Redis • React • AI
 
 An AI-powered civic issue reporting platform designed to help citizens report problems and improve issue management.
 
-Features
+Features:
 
 - Civic issue reporting
 - Issue classification
-- Real-time notifications
 - REST APIs
+- Real-time notifications
 - WebSockets
 - AI-powered assistance
 - AI agent integration
 
-Built with: Django • Django REST Framework • PostgreSQL • Redis • Django Channels • React • AI
+Tech: Django • Django REST Framework • PostgreSQL • Redis • Django Channels • React • AI
 
-"View Repository →" (https://github.com/AnshuSAHA176)
+"View GitHub →" (https://github.com/AnshuSAHA176)
 
 ---
 
@@ -104,24 +105,33 @@ Built with: Django • Django REST Framework • PostgreSQL • Redis • Django
 
 🎯 What I'm Working Toward
 
-My goal is to become a strong backend/software engineer capable of designing, building, and deploying reliable production systems.
+I'm working toward becoming a strong backend/software engineer capable of designing, building, and deploying reliable production systems.
 
-I'm particularly interested in:
+My main interests are:
 
 "Backend Engineering" · "AI Engineering" · "Distributed Systems" · "Automation" · "Developer Tools"
 
 ---
 
-📊 GitHub Stats
+📌 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSAHA176&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
+Python
+  ↓
+Django & REST APIs
+  ↓
+System Design
+  ↓
+Scalable Backend Systems
+  ↓
+AI Engineering
+  ↓
+Agentic AI
+
+---
 
 🤝 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github)" (https://github.com/AnshuSAHA176)
+""GitHub" (https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github&logoColor=white)" (https://github.com/AnshuSAHA176)
 
 ---
 
