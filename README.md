@@ -6,6 +6,10 @@ I build **backend systems and AI-powered applications** with a focus on clean ar
 
 I'm currently focused on becoming a stronger software engineer by building systems that are **scalable, maintainable, and production-minded**.
 
+<p align="center">
+  <img src="./assets/matrix-banner.jpg" alt="Matrix code banner" width="100%">
+</p>
+
 ---
 
 ## 🧠 What I Do
@@ -18,7 +22,7 @@ I'm currently focused on becoming a stronger software engineer by building syste
 - ⚡ Asynchronous systems with Redis & Celery
 - 🔄 Real-time systems & WebSockets
 - 🕷️ Web scraping & data pipelines
-- 🐳 Deployment, containers & backend infrastructure
+- 🐳 Backend infrastructure & containerization
 
 ---
 
@@ -45,14 +49,14 @@ I'm currently focused on becoming a stronger software engineer by building syste
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Areas:** AI Agents · RAG · LLM Applications · Agent Orchestration · Tool Calling · Vector Search
+**Focus:** AI Agents · RAG · LLM Applications · Agent Orchestration · Tool Calling · Vector Search
 
 ### Automation & Data
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-**Areas:** Web Scraping · Automation · Data Pipelines · Data Extraction
+**Focus:** Web Scraping · Automation · Data Pipelines · Data Extraction
 
 ---
 
@@ -62,7 +66,7 @@ I'm currently focused on becoming a stronger software engineer by building syste
 
 An AI-powered platform designed to make career decisions more data-driven.
 
-**Core capabilities:**
+**Core capabilities**
 
 - Resume analysis
 - Skill extraction
@@ -73,7 +77,7 @@ An AI-powered platform designed to make career decisions more data-driven.
 - Personalized career roadmaps
 - AI-powered learning workflows
 
-**Architecture focus:**
+**Architecture**
 
 `Django` · `PostgreSQL` · `Redis` · `REST APIs` · `AI`
 
@@ -85,7 +89,7 @@ An AI-powered platform designed to make career decisions more data-driven.
 
 An AI-powered civic issue reporting system designed to connect citizens with intelligent issue management.
 
-**Core capabilities:**
+**Core capabilities**
 
 - Civic issue reporting
 - Issue classification
@@ -95,111 +99,45 @@ An AI-powered civic issue reporting system designed to connect citizens with int
 - AI-powered assistance
 - AI agent workflows
 
-**Architecture focus:**
+**Architecture**
 
-`Django` · `DRF` · `PostgreSQL` · `Redis` · `Channels` · `AI Agents`
+`Django` · `Django REST Framework` · `PostgreSQL` · `Redis` · `Channels` · `AI Agents`
+
+[View Repository →](https://github.com/AnshuSAHA176)
 
 ---
 
-## 🧩 Currently Building
+## 📚 Currently Learning
 
-```text
-Backend Systems
-       ↓
-Scalable APIs
-       ↓
-Async & Real-Time Architecture
-       ↓
-AI Agents
-       ↓
-Agentic Workflows
-       ↓
-Intelligent Production SystemsI am particularly interested in:
-🧠 AI Agents & Agentic Systems
-⚙️ Backend Engineering
-🏗️ System Design & Architecture
-🔌 REST APIs & Real-Time Systems
-🗄️ Databases & Data Modeling
-🔄 Automation & Data Pipelines
-🔎 Web Scraping & Intelligent Data Processing
-I don't want to just write code. I want to understand the system behind the code.
-🧩 Engineering Stack
-🐍 Core
-� �
-⚙️ Backend
-� � � � �
-🗄️ Data & Infrastructure
-� � � � �
-🤖 AI & Agentic Engineering
-� � � � �
-🔧 Automation & Development
-� � � �
-🚀 Selected Work
-🤖 AI Career Intelligence Platform
-An AI-powered platform focused on making career decisions more data-driven.
-What it does
-Resume analysis and skill extraction
-Skill-gap detection
-Job market intelligence
-Job scraping and structured data processing
-Career recommendations
-Personalized career roadmaps
-AI-powered learning workflows
-Architecture focus: APIs · PostgreSQL · Redis · Background Processing · AI
-→ Explore the project
-🏙️ CivicAI
-An AI-powered civic issue reporting system designed around intelligent issue processing and real-time communication.
-What it does
-Civic issue reporting
-Issue classification
-REST APIs
-Real-time notifications
-WebSocket communication
-AI-powered assistance
-AI agent workflows
-Architecture focus: Django · DRF · PostgreSQL · Redis · Channels · AI Agents
-→ Explore my GitHub
-🧠 What I'm Building Toward
-Backend Engineering
-       │
-       ├── API Design
-       ├── Database Architecture
-       ├── Async & Background Processing
-       ├── Caching & Performance
-       ├── Real-Time Systems
-       │
-       ▼
-System Design
-       │
-       ├── Scalability
-       ├── Reliability
-       ├── Distributed Systems
-       └── Clean Architecture
-       │
-       ▼
-AI Engineering
-       │
-       ├── LLM Applications
-       ├── RAG
-       ├── Agentic Workflows
-       ├── Tool Calling
-       └── Multi-Agent Systems
-📚 Currently Learning
-Area                     Focus
-🐍 Python                Advanced Python & engineering practices ⚙️ Django                Advanced backend architecture & DRF 🏗️ System Design         Scalable and reliable systems 🤖 AI Agents             LangGraph, tool use & orchestration 🔎 RAG                   Retrieval, embeddings & vector search 🗄️ Databases             Query optimization & data modeling 🔄 Distributed Systems   Async processing, queues & reliability
-📈 Engineering Principles
-Simple > Clever
-Readable > Complex
-Reliable > Fast hacks
-Architecture > Framework hype
-Understanding > Copy/Paste
-Production mindset > Tutorial projects
-I care about why a system works, not just whether it works.
-🎯 Long-Term Goal
-Become a high-level backend and AI engineer capable of taking a problem from:
-Idea → Architecture → Implementation → Deployment → Scale
-and building software that people can actually rely on.
-🤝 Let's Connect
-::: {align="center"} <a href="https://github.com/AnshuSAHA176">{=html} <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html} </a>{=html}
-<br/>{=html}<br/>{=html}
-Building. Learning. Breaking. Understanding. Improving. :::
+- Advanced Python
+- Advanced Django & DRF
+- System Design
+- Distributed Systems
+- Database Architecture
+- Redis & asynchronous processing
+- LangGraph
+- Multi-Agent Systems
+- RAG architectures
+- AI Agent orchestration
+- Clean Architecture
+
+---
+
+## 🎯 Engineering Goal
+
+I want to become a **high-level backend engineer and AI engineer** capable of designing systems from the ground up — from database architecture and APIs to distributed services and intelligent AI agents.
+
+I care about understanding **why a system works**, not just making the code run.
+
+---
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshuSAHA176)
+
+---
+
+### ⚡ Build. Break. Understand. Improve.
+
+> Good software isn't just code that works.
+> It's code that can survive change.
