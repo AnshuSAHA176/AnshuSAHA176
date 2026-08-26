@@ -7,7 +7,7 @@ I build **backend systems and AI-powered applications** focused on clean archite
 My focus is on building software that is **scalable, maintainable, and production-minded**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/matrix-banner.jpg" alt="Anshu Saha Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-concept.jpg" alt="Anshu Saha Developer Banner" width="100%">
 </p>
 
 ---
