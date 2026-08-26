@@ -2,12 +2,12 @@
 
 ### Backend Developer · AI Engineer · Builder
 
-I build **backend systems and AI-powered applications** with a focus on clean architecture, reliable APIs, automation, and intelligent agentic systems.
+I build **backend systems and AI-powered applications** focused on clean architecture, reliable APIs, automation, and intelligent agentic systems.
 
-I'm currently focused on becoming a stronger software engineer by building systems that are **scalable, maintainable, and production-minded**.
+My focus is on building software that is **scalable, maintainable, and production-minded**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/assets/matrix-banner.jpg" alt="Anshu Saha - Developer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/matrix-banner.jpg" alt="Anshu Saha Developer Banner" width="100%">
 </p>
 
 ---
