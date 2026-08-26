@@ -7,7 +7,7 @@ I build **backend systems and AI-powered applications** with a focus on clean ar
 I'm currently focused on becoming a stronger software engineer by building systems that are **scalable, maintainable, and production-minded**.
 
 <p align="center">
-  <img src="./assets/matrix-banner.jpg" alt="Matrix code banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/assets/matrix-banner.jpg" alt="Anshu Saha - Developer Banner" width="100%">
 </p>
 
 ---
