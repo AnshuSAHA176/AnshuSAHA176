@@ -1,143 +1,265 @@
-# 👋 Hi, I'm Anshu Saha
+👋 Hey, I'm Anshu Saha
 
-### Backend Developer · AI Engineer · Builder
+Backend Engineer · AI Engineer · Systems Builder
 
-I build **backend systems and AI-powered applications** focused on clean architecture, reliable APIs, automation, and intelligent agentic systems.
+I build backend systems, AI agents, and automation pipelines with a focus on
+architecture, reliability, and real-world engineering.
 
-My focus is on building software that is **scalable, maintainable, and production-minded**.
+I enjoy going beyond making things work — I like understanding how systems
+behave under load, how components communicate, and how to design them properly.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-concept.jpg" alt="Anshu Saha Developer Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/main/matrix-background-binary-code-texture-falling-green-numbers-data-visualization-concept.jpg"
+    alt="Anshu Saha"
+    width="100%"
+  />
 </p>
 
----
+🧠 What I Build
 
-## 🧠 What I Do
+Backend Systems
+      │
+      ├── REST APIs
+      ├── Authentication & Authorization
+      ├── Database Architecture
+      ├── Async Processing
+      ├── Real-Time Systems
+      └── Distributed Components
 
-- 🏗️ Backend engineering with Python & Django
-- 🔌 REST API design & development
-- 🤖 AI agents & agentic workflows
-- 🧠 LLM applications, RAG & intelligent automation
-- 🗄️ Database design & data modeling
-- ⚡ Asynchronous systems with Redis & Celery
-- 🔄 Real-time systems & WebSockets
-- 🕷️ Web scraping & data pipelines
-- 🐳 Backend infrastructure & containerization
+AI Systems
+      │
+      ├── AI Agents
+      ├── RAG Pipelines
+      ├── LLM Applications
+      ├── Tool Calling
+      ├── Agent Orchestration
+      └── Intelligent Automation
 
----
+⚙️ Tech Stack
 
-## ⚙️ Engineering Stack
+🐍 Backend
 
-### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### Databases & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### AI & Agentic Engineering
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+🗄️ Databases & Infrastructure
 
-**Focus:** AI Agents · RAG · LLM Applications · Agent Orchestration · Tool Calling · Vector Search
 
-### Automation & Data
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-**Focus:** Web Scraping · Automation · Data Pipelines · Data Extraction
 
----
 
-## 🚀 Featured Work
 
-### 🤖 AI Career Intelligence Platform
+🤖 AI & Agentic Engineering
 
-An AI-powered platform designed to make career decisions more data-driven.
 
-**Core capabilities**
 
-- Resume analysis
-- Skill extraction
-- Skill-gap detection
-- Job market intelligence
-- Job scraping & structured data processing
-- Career recommendations
-- Personalized career roadmaps
-- AI-powered learning workflows
 
-**Architecture**
 
-`Django` · `PostgreSQL` · `Redis` · `REST APIs` · `AI`
+Working with
 
-[View Repository →](https://github.com/AnshuSAHA176/AI-Career-Intelligence-Platform)
+AI Agents · RAG · LLM Applications · Tool Calling ·
+Agent Orchestration · Vector Search
 
----
+⚡ Automation & Data
 
-### 🏙️ CivicAI
 
-An AI-powered civic issue reporting system designed to connect citizens with intelligent issue management.
 
-**Core capabilities**
 
-- Civic issue reporting
-- Issue classification
-- Real-time notifications
-- WebSocket communication
-- REST APIs
-- AI-powered assistance
-- AI agent workflows
+Working with
 
-**Architecture**
+Web Scraping · Automation · Data Extraction · Data Pipelines
 
-`Django` · `Django REST Framework` · `PostgreSQL` · `Redis` · `Channels` · `AI Agents`
+🚀 Featured Projects
 
-[View Repository →](https://github.com/AnshuSAHA176)
+🤖 AI Career Intelligence Platform
 
----
+AI-powered career intelligence platform for analyzing resumes, skills,
+jobs, and career paths.
 
-## 📚 Currently Learning
+What it does
 
-- Advanced Python
-- Advanced Django & DRF
-- System Design
-- Distributed Systems
-- Database Architecture
-- Redis & asynchronous processing
-- LangGraph
-- Multi-Agent Systems
-- RAG architectures
-- AI Agent orchestration
-- Clean Architecture
+📄 Resume analysis
 
----
+🧠 Skill extraction
 
-## 🎯 Engineering Goal
+🔍 Skill-gap detection
 
-I want to become a **high-level backend engineer and AI engineer** capable of designing systems from the ground up — from database architecture and APIs to distributed services and intelligent AI agents.
+📊 Job market intelligence
 
-I care about understanding **why a system works**, not just making the code run.
+🕷️ Job scraping
 
----
+🎯 Career recommendations
 
-## 🤝 Connect
+🗺️ Personalized career roadmaps
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnshuSAHA176-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshuSAHA176)
+🤖 AI-powered workflows
 
----
+Stack
 
-### ⚡ Build. Break. Understand. Improve.
+Django · DRF · PostgreSQL · Redis · AI
 
-> Good software isn't just code that works.
-> It's code that can survive change.
+View Repository →
+
+🏙️ CivicAI
+
+AI-powered civic issue management platform combining APIs,
+real-time communication, and intelligent automation.
+
+What it does
+
+📍 Civic issue reporting
+
+🧠 AI-powered assistance
+
+🔔 Real-time notifications
+
+⚡ WebSocket communication
+
+🔌 REST APIs
+
+🤖 AI agent workflows
+
+🗄️ Structured issue management
+
+Stack
+
+Django · DRF · PostgreSQL · Redis · Channels · AI Agents
+
+Explore my GitHub →
+
+🧩 Engineering Interests
+
+I'm particularly interested in the intersection of:
+
+Backend Engineering
+        +
+Distributed Systems
+        +
+Artificial Intelligence
+        +
+Automation
+
+Areas I'm actively exploring:
+
+System design
+
+Distributed systems
+
+Database architecture
+
+Caching strategies
+
+Asynchronous processing
+
+Real-time architectures
+
+AI agent architectures
+
+RAG systems
+
+Multi-agent systems
+
+Production AI systems
+
+📚 Currently Learning
+
+Backend
+
+Advanced Python
+
+Advanced Django & DRF
+
+System Design
+
+Distributed Systems
+
+Database Architecture
+
+Redis
+
+Celery
+
+AI
+
+LangGraph
+
+Multi-Agent Systems
+
+RAG Architecture
+
+Agent Orchestration
+
+Tool Calling
+
+LLM Applications
+
+📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSAHA176&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AnshuSAHA176&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+🎯 What I'm Working Toward
+
+My goal is to become a strong Backend + AI Engineer capable of designing
+systems from the ground up.
+
+That means understanding the entire path:
+
+Requirements
+     ↓
+Architecture
+     ↓
+Database Design
+     ↓
+APIs
+     ↓
+Async Processing
+     ↓
+Caching
+     ↓
+Real-Time Communication
+     ↓
+AI Integration
+     ↓
+Deployment
+     ↓
+Scaling
+
+I care about understanding why a system works, not just making the code run.
+
+🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/AnshuSAHA176">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+
+⚡ Build. Break. Understand. Improve.
+
+<sub>
+Good software isn't just code that works.
+It's code that can survive change.
+</sub>
+
+</p>
