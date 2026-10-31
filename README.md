@@ -22,13 +22,11 @@
 
 <br><br>
 
-<b>
-<a href="#focus">Focus</a> &nbsp;·&nbsp;
-<a href="#stack">Stack</a> &nbsp;·&nbsp;
-<a href="#projects">Projects</a> &nbsp;·&nbsp;
-<a href="#stats">Stats</a> &nbsp;·&nbsp;
-<a href="#connect">Connect</a>
-</b>
+<a href="#focus"><img src="https://img.shields.io/badge/01-FOCUS-1e293b?style=for-the-badge&labelColor=6366f1" alt="Focus"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/02-STACK-1e293b?style=for-the-badge&labelColor=6366f1" alt="Stack"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-1e293b?style=for-the-badge&labelColor=6366f1" alt="Projects"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/04-STATS-1e293b?style=for-the-badge&labelColor=6366f1" alt="Stats"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/05-CONNECT-1e293b?style=for-the-badge&labelColor=6366f1" alt="Connect"/></a>
 
 </div>
 
