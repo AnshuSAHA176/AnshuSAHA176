@@ -1,3 +1,5 @@
+
+
 <!-- ═══════════════════════════════════════════════════════════════
      Profile README for github.com/AnshuSAHA176
      Repo must be named exactly: AnshuSAHA176/AnshuSAHA176 (public)
@@ -194,22 +196,24 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSAHA176&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- Cards below are generated into YOUR repo by .github/workflows/stats.yml (no third-party server needed) -->
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AnshuSAHA176&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AnshuSAHA176&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <details>
-<summary><b>📈 &nbsp;Contribution activity graph</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>📈 &nbsp;Profile details</b> &nbsp;<i>(click to expand)</i></summary>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuSAHA176&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="70%" />
 </div>
 
 </details>
