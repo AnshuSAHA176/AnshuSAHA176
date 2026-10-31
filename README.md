@@ -17,7 +17,7 @@
 
 <a href="https://github.com/AnshuSAHA176"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:anshusahaa62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/anshu-saha-161539431/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=AnshuSAHA176&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views"/>
 
 <br><br>
@@ -242,6 +242,7 @@ I enjoy talking about backend architecture, agent workflows, and real-time syste
 <br>
 
 <a href="mailto:anshusahaa62@gmail.com"><img src="https://img.shields.io/badge/Say_hello-anshusahaa62@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<a href="https://www.linkedin.com/in/anshu-saha-161539431/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 <br><br>
 
